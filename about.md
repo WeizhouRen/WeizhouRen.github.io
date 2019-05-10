@@ -4,9 +4,10 @@ title: About
 subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
+Hi, this is Weizhou who is an IT (Software Information System) student in the University of Queensland. I'm keen on travelling and photography, but I prefer programming. I'm comfortable with developing front-end and back-end. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is my final year in the university, and I would like to have an internship before graduating. Currently, I'm open to any suggestions from everyone, so thanks for your viewing and hope to get feedback from you. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This is my LinkedIn [linkedin.com](https://www.linkedin.com/in/weizhou-ren-819280185/)
+
